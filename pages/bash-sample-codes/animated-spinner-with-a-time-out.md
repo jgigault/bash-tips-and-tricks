@@ -151,8 +151,9 @@ echo "$PID has terminated"
 ##### <a name="tip3"></a>Move the first character to the end of a string
 
 Bash programming offers you a multitude of parameters for manipulating and/or expanding variables. Use a **removal parameter** `#` or `%` followed by a pattern for making a removing:
-* #\<pattern> removes the shortest match from the beginning
-* ##\<pattern> removes the longest match from the beginning
+
+* \#\<pattern> removes the shortest match from the beginning
+* \#\#\<pattern> removes the longest match from the beginning
 * %\<pattern> removes the shortest match from the end
 * %%\<pattern> removes the longest match from the end
 
