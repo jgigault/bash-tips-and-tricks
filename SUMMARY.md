@@ -9,5 +9,5 @@
    * [Functions](pages/bash-syntax/functions.md)
 * [Bash tools](pages/bash-tools.md)
    * [Awk](pages/bash-tools/awk.md)
-* Bash sample codes
+* [Bash sample codes](pages/bash-sample-codes.md)
 
