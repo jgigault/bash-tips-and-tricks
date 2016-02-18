@@ -1,4 +1,4 @@
-## Variables
+# Variables
 
 The syntax of the variables in Bash programming language is flexible. Unlike many other programming languages, **variables are untyped**. That means that if you do not explicitly declare its type, the content of a variable shall be arbitrarily a numeric value or a character string depending on which way you use it in.
 
