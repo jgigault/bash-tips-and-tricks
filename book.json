@@ -1,4 +1,7 @@
 {
+    "title": "Bash Tips and Tricks",
+    "description": "My bash tips and tricks to build interactive shell scripts",
+    "language": "en",
     "structure": {
         "readme": "INTRO.md"
     }
