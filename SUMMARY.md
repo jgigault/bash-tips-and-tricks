@@ -10,4 +10,5 @@
 * [Bash tools](pages/bash-tools.md)
    * [Awk](pages/bash-tools/awk.md)
 * [Bash sample codes](pages/bash-sample-codes.md)
+    * [Animated spinner with a time out](pages/bash-sample-codes/animated-spinner-with-a-time-out.md)
 
