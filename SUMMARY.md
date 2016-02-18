@@ -8,5 +8,6 @@
    * [Conditions](pages/bash-syntax/conditions.md)
    * [Functions](pages/bash-syntax/functions.md)
 * [Bash tools](pages/bash-tools.md)
-    * [Awk](pages/bash-tools/awk.md)
+   * [Awk](pages/bash-tools/awk.md)
+* Bash sample codes
 
