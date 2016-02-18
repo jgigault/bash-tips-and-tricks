@@ -1,1 +1,7 @@
-{}
+{
+    "structure":
+    {
+        "readme": "introduction.md"
+    }
+        
+}
